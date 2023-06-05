@@ -1,0 +1,11 @@
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\bin\Debug\calculator project.exe.config
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\bin\Debug\calculator project.exe
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\bin\Debug\calculator project.pdb
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator project.csproj.AssemblyReference.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator project.csproj.SuggestedBindingRedirects.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator_project.Form1.resources
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator_project.Properties.Resources.resources
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator project.csproj.GenerateResource.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator project.csproj.CoreCompileInputs.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator project.exe
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\calculator project\calculator project\obj\Debug\calculator project.pdb

@@ -1,0 +1,12 @@
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\bin\Debug\BMIcalculator.exe.config
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\bin\Debug\BMIcalculator.exe
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\bin\Debug\BMIcalculator.pdb
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.csproj.AssemblyReference.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.Form1.resources
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.Properties.Resources.resources
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.csproj.GenerateResource.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.csproj.CoreCompileInputs.cache
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.exe
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.pdb
+C:\Users\owaes\OneDrive\Desktop\owais\6th term\Programming III\Practical\BMIcalculator\BMIcalculator\obj\Debug\BMIcalculator.Form2.resources
